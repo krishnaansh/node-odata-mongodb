@@ -1,0 +1,29 @@
+{
+  "name": "odata_pro",
+  "version": "1.0.0",
+  "description": "odata server with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnaansh/products_mongodb.git"
+  },
+  "author": "Krishna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnaansh/products_mongodb/issues"
+  },
+  "homepage": "https://github.com/krishnaansh/products_mongodb#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.15",
+    "node-odata": "^0.7.16",
+    "package.json": "^2.0.1",
+    "simple-odata-server": "^1.1.1",
+    "simple-odata-server-mongodb": "^1.0.0"
+  }
+}
